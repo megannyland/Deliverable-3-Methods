@@ -6,7 +6,7 @@ namespace Deliverable_3_Methods
     {
         static void Main(string[] args)
         {
-            Console.Write("What is your name?:  ");
+            Console.Write("What is your name?: ");
             string input = Console.ReadLine();
             Console.WriteLine("Hello " + input + "!");
         }
